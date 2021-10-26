@@ -71,7 +71,7 @@
       <umab:OutlookApplicationCard.Body>
         <ActivityAction x:TypeArguments="um:IMailQuickHandle">
           <ActivityAction.Argument>
-            <DelegateInArgument x:TypeArguments="um:IMailQuickHandle" Name="Outlook" />
+            <DelegateInArgument x:TypeArguments="um:IMailQuickHandle" Name="Outlook2" />
           </ActivityAction.Argument>
           <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="400,83.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
             <sap:WorkflowViewStateService.ViewState>
