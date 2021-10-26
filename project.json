@@ -1,6 +1,6 @@
 {
-  "name": "SaveOutlookAttachments",
-  "description": "Save email attachments from Outlook to a folder",
+  "name": "CompleteWordTemplatefromExcelandEmail2",
+  "description": "Replaces placeholder text in a word document with values from an Excel range and sends as an email attachment",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.ComplexScenarios.Activities": "[1.1.3]",
